@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495771804419",
+    "project_id": "instagram-clone-vamsi-krishna",
+    "storage_bucket": "instagram-clone-vamsi-krishna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495771804419:android:46e82f8539f2214877bf36",
+        "android_client_info": {
+          "package_name": "com.example.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495771804419-2o54strgo7l61dece9hvfeenqqsg86pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmDa_BANpytRz2PXtu40KloTh3CrXIDN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495771804419-2o54strgo7l61dece9hvfeenqqsg86pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
